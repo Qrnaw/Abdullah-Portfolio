@@ -39,7 +39,7 @@ tabs.forEach(tab => {
 
 // Typing animution
 var Typed = new Typed(".typing", {
-    strings: ["Developer","Designer","Freelancer"],
+    strings: ["Developer","Data analyst","business analyst"],
     typeSpeed: 150,
     backSpeed:60,
     loop: true
